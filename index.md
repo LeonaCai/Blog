@@ -1,7 +1,6 @@
-﻿---
-layout:default
 ---
-
+layout: default
+---
 # Welcome to My world
 * Hi, I am a assistant in a biology lab. And do some jobs about analysis NGS data, etc.
 **Nice to meet you 😀** 
