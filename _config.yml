@@ -3,6 +3,6 @@ title: LeonaCai's World
 SEOtitle: Leona's Blog
 description: Thinking, Communicating, Doing
 keywords: "Leona, Blog, Bioinformatics, Code, Daily"
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-hacker
