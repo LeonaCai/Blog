@@ -7,7 +7,6 @@ layout: default
 <br>**And have fun 🎃**
 ## Categories
 * <dt>Bioinformatics🥢</dt>
-
 	* [NGS Pipeline](./_post/WGS.md) 
 * <dt> Code🐎</dt>
 * <dt>Mathematics📚</dt>
