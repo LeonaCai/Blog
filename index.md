@@ -3,8 +3,10 @@ layout: default
 ---
 # Welcome to My world
 * Hi, I am a assistant in a biology lab. And do some jobs about analysis NGS data, etc.
-**Nice to meet you 😀** 
-## Categories
+<br>**Nice to meet you 😀** 
+<br>**And have fun 🎃**
+<br>
+# Categories
 * <dt>Bioinformatics🥢</dt>
 
 	* [NGS Pipeline](./_post/WGS.md) 
