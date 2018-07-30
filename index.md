@@ -10,7 +10,7 @@ layout: default
 	* [NGS Pipeline](./_post/WGS.md) 
 * <dt> Code🐎</dt>
 * <dt>Mathematics📚</dt>
-	*[Concrete Mathematics](./_post/math/concrete mathematics/contents.md)
+	*[Concrete Mathematics](.//_post/math/concrete math/contents.md)
 * <dt>Language🔤</dt>
 * <dt>Exercise💪</dt>
 
