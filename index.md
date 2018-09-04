@@ -11,10 +11,10 @@ layout: default
 <br>
 ## Categories
 * <dt>Bioinformatics🥢</dt>
-	* [WES1](./post/Bioinformatics/WES/wes_dictory.html)
+	* [WES2](Blog/_post/Bioinformatics/WES/wes_dictory.html)
 * <dt> Code🐎</dt>
 * <dt>Mathematics📚</dt>
-	* [Concrete Mathematics](./_post/math/concrete math/contents.md)
+	* [Concrete Mathematics](Blog/_post/math/concrete math/contents.md)
 * <dt>Language🔤</dt>
 * <dt>Exercise💪</dt>
 
