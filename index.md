@@ -11,7 +11,7 @@ layout: default
 <br>
 ## Categories
 * <dt>Bioinformatics🥢</dt>
-	* [WES](./post/Bioinformatics/WES/wes_dictory.html)
+	* [WES1](./post/Bioinformatics/WES/wes_dictory.html)
 * <dt> Code🐎</dt>
 * <dt>Mathematics📚</dt>
 	* [Concrete Mathematics](./_post/math/concrete math/contents.md)
